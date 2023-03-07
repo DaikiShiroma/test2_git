@@ -1,2 +1,4 @@
 テストtest
 基本
+・git add
+・git commit
